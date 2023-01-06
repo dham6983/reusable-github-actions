@@ -2,7 +2,7 @@ name: This is resuable-workflows
 
 
 on :
-  workflow_calll:
+  workflow_call:
 
 jobs:
 
