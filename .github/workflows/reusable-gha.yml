@@ -16,4 +16,4 @@ jobs:
 
       - name: Write the purpose
         run: |
-        echo "Running reusable workflow from resusable repo"
+          echo "Running reusable workflow from resusable repo"
